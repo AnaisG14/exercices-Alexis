@@ -1,0 +1,21 @@
+
+📄 Titre : Exercice de correction HTML & CSS
+🧠 Objectif :
+Corriger les erreurs dans les fichiers index.html et style.css pour obtenir une page web :
+
+- proprement structurée,
+- sans erreurs de console,
+- avec un rendu visuel cohérent.
+
+🎯 Résultat attendu :
+- Le titre doit s’afficher en grand et centré.
+- Un paragraphe s’affiche sous le titre.
+- Une liste des technologies apparaît proprement.
+- Une image est visible.
+- Un lien vers un autre site est fonctionnel.
+- Le style s’applique bien (couleurs, alignement…).
+
+🧰 Aides autorisées :
+- Tu peux utiliser la console du navigateur (inspecteur de code) pour repérer les erreurs.
+- Tu peux faire des recherches en ligne.
+- Tu peux me poser des questions, mais après avoir cherché.
